@@ -1,0 +1,3 @@
+// settings.gradle — Define los módulos del proyecto
+rootProject.name = "DistribuApp"
+include ':app'

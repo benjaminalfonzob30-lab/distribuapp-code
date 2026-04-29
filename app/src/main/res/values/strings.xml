@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DistribuApp</string>
+
+    <!--
+        default_web_client_id: ID del cliente web de Google obtenido desde Firebase Console.
+        Debes reemplazar este valor con el de tu propio proyecto Firebase.
+
+        Dónde encontrarlo:
+        1. Firebase Console → Tu proyecto → Configuración del proyecto (ícono engranaje)
+        2. Pestaña "General" → Sección "Tus apps" → Seleccionar app Android
+        3. O en Firebase Console → Authentication → Sign-in method → Google → ID de cliente web
+    -->
+    <string name="default_web_client_id">TU_WEB_CLIENT_ID_AQUI</string>
+</resources>
